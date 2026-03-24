@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+strace.out
+git_status.txt
+remote.txt
+*.so
